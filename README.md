@@ -1,1 +1,2 @@
-# React-expense_tracking
+# React - Expense tracking
+Simple implementation of expense tracking website using React.
